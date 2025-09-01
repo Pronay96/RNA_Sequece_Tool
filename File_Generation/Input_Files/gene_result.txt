@@ -1,0 +1,894 @@
+1. deoA
+thymidine phosphorylase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS11310, VC2349, VC_2349
+Other Designations: thymidine phosphorylase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2505637..2506983, complement)
+This record was discontinued.
+ID: 2613145
+
+2. deoD
+purine-nucleoside phosphorylase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13650, VCA0053, VC_A0053
+Other Designations: purine-nucleoside phosphorylase
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (61320..62030, complement)
+This record was discontinued.
+ID: 2612153
+
+3. fabA
+bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS07175, VC1483, VC_1483
+Other Designations: bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1588425..1588943)
+This record was discontinued.
+ID: 2613989
+
+4. fabB
+ [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10150, VC2109, VC_2109
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2266155..2267365, complement)
+This record was discontinued.
+ID: 2613365
+
+5. fabD
+ACP S-malonyltransferase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS09735, VC2022, VC_2022
+Other Designations: ACP S-malonyltransferase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2175342..2176265, complement)
+This record was discontinued.
+ID: 2613401
+
+6. fadR
+fatty acid metabolism transcriptional regulator FadR [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS09165, VC1900, VC_1900
+Other Designations: fatty acid metabolism transcriptional regulator FadR
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2048068..2048907, complement)
+This record was discontinued.
+ID: 2613529
+
+7. fepB
+Fe2+-enterobactin ABC transporter substrate-binding protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03890, VC0776, VC_0776
+Other Designations: Fe2+-enterobactin ABC transporter substrate-binding protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (832488..833447)
+This record was discontinued.
+ID: 2615319
+
+8. fis
+DNA-binding transcriptional regulator Fis [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01410, VC0290, VC_0290
+Other Designations: DNA-binding transcriptional regulator Fis
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (299889..300185, complement)
+This record was discontinued.
+ID: 2615013
+
+9. focA
+formate transporter FocA [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS08205, VC1695, VC_1695
+Other Designations: formate transporter FocA
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1829274..1830116, complement)
+This record was discontinued.
+ID: 2613826
+
+10. infA
+translation initiation factor IF-1 [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS08390, VC1737, VC_1737
+Other Designations: translation initiation factor IF-1
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1873592..1873810)
+This record was discontinued.
+ID: 2613742
+
+11. metK
+methionine adenosyltransferase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS02420, VC0472, VC_0472
+Other Designations: methionine adenosyltransferase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (500170..501327, complement)
+This record was discontinued.
+ID: 2615134
+
+12. rplC
+50S ribosomal protein L3 [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS12520, VC2596, VC_2596
+Other Designations: 50S ribosomal protein L3
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2763826..2764455, complement)
+This record was discontinued.
+ID: 2615613
+
+13. rpmE
+50S ribosomal protein L31 [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS12905, VC2679, VC_2679
+Other Designations: 50S ribosomal protein L31
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2847810..2848028)
+This record was discontinued.
+ID: 2615507
+
+14. rpsJ
+30S ribosomal protein S10 [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS12525, VC2597, VC_2597
+Other Designations: 30S ribosomal protein S10
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2764470..2764781, complement)
+This record was discontinued.
+ID: 2615614
+
+15. rrf
+ [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13295, VC_r022, VCr022
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2933646..2933761, complement)
+This record was discontinued.
+ID: 2614923
+
+16. rtxA
+MARTX multifunctional-autoprocessing repeats-in-toxin holotoxin RtxA [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS07025, VC1451, VC_1451
+Other Designations: MARTX multifunctional-autoprocessing repeats-in-toxin holotoxin RtxA
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1550147..1563784)
+This record was discontinued.
+ID: 2613957
+
+17. rtxC
+RTX toxin-activating lysine-acyltransferase RtxC [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS07020, VC1450, VC_1450
+Other Designations: RTX toxin-activating lysine-acyltransferase RtxC
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1549662..1550123)
+This record was discontinued.
+ID: 2613956
+
+18. tcpJ
+toxin-coregulated pilus pre-pilin peptidase TcpJ [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS04175, VC0839, VC_0839
+Other Designations: toxin-coregulated pilus pre-pilin peptidase TcpJ
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (900726..901487)
+This record was discontinued.
+ID: 2614506
+
+19. VC_RS00275
+tRNA-Ala [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS00275, VC_t001, VCt001
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (55421..55496)
+This record was discontinued.
+ID: 2614448
+
+20. VC_RS00740
+tRNA-Glu [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS00740, VC_t004, VCt004
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (152663..152738)
+This record was discontinued.
+ID: 2614862
+
+
+21. VC_RS00755
+tRNA-Ser [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS00755, VC_t005, VCt005
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (156206..156296)
+This record was discontinued.
+ID: 2612957
+
+22. VC_RS01380
+ [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01380, VC0284, VC_0284
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (291955..293997, complement)
+This record was discontinued.
+ID: 2615007
+
+23. VC_RS01390
+GntP family permease [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01390, VC0286, VC_0286
+Other Designations: GntP family permease
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (294837..296213, complement)
+This record was discontinued.
+ID: 2615009
+
+24. VC_RS01395
+gluconokinase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01395, VC0287, VC_0287
+Other Designations: gluconokinase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (296367..296882)
+This record was discontinued.
+ID: 2615010
+
+25. VC_RS01400
+phosphogluconate dehydratase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01400, VC0288, VC_0288
+Other Designations: phosphogluconate dehydratase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (296879..298675)
+This record was discontinued.
+ID: 2615011
+
+26. VC_RS01510
+tRNA-Ile [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01510, VC_t011, VCt011
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (325745..325821)
+This record was discontinued.
+ID: 2615101
+
+27. VC_RS01515
+tRNA-Ala [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01515, VC_t012, VCt012
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (325830..325905)
+This record was discontinued.
+ID: 2615102
+
+28. VC_RS01945
+tRNA-Ile [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01945, VC_t026, VCt026
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (403350..403426)
+This record was discontinued.
+ID: 2615033
+
+29. VC_RS01950
+tRNA-Ala [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01950, VC_t027, VCt027
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (403435..403511)
+This record was discontinued.
+ID: 2614982
+
+30. VC_RS01965
+tRNA-Asp [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS01965, VC_t028, VCt028
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (406956..407032)
+This record was discontinued.
+ID: 2614985
+
+31. VC_RS02265
+tRNA-Thr [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS02265, VC_t030, VCt030
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (478491..478566, complement)
+This record was discontinued.
+ID: 2615782
+
+32. VC_RS02270
+tRNA-Asn [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS02270, VC_t031, VCt031
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (478595..478670, complement)
+This record was discontinued.
+ID: 2615783
+
+33. VC_RS02275
+tRNA-Thr [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS02275, VC_t032, VCt032
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (478686..478761, complement)
+This record was discontinued.
+ID: 2615784
+
+34. VC_RS02295
+tRNA-Phe [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS02295, VC_t035, VCt035
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (481288..481363, complement)
+This record was discontinued.
+ID: 2615788
+
+35. VC_RS02435
+ligand-gated channel protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS02435, VC0475, VC_0475
+Other Designations: ligand-gated channel protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (504802..506760)
+This record was discontinued.
+ID: 2615269
+
+36. VC_RS03130
+ABC transporter permease [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03130, VC0618, VC_0618
+Other Designations: ABC transporter permease
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (653469..654494, complement)
+This record was discontinued.
+ID: 2615406
+
+37. VC_RS03585
+tRNA-Glu [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03585, VC_t049, VCt049
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (764379..764454)
+This record was discontinued.
+ID: 2615719
+
+38. VC_RS03600
+tRNA-Asp [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03600, VC_t050, VCt050
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (767948..768024)
+This record was discontinued.
+ID: 2615722
+
+39. VC_RS03860
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03860, VC0770, VC_0770
+Other Designations: hypothetical protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (825292..825885)
+This record was discontinued.
+ID: 2615313
+
+40. VC_RS03870
+(2,3-dihydroxybenzoyl)adenylate synthase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03870, VC0772, VC_0772
+Other Designations: (2,3-dihydroxybenzoyl)adenylate synthase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (827179..828810, complement)
+This record was discontinued.
+ID: 2615315
+
+
+41. VC_RS03875
+isochorismate synthase MenF [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03875, VC0773, VC_0773
+Other Designations: isochorismate synthase MenF
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (828821..830008, complement)
+This record was discontinued.
+ID: 2615316
+
+42. VC_RS05280
+CPBP family intramembrane metalloprotease [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS05280, VC1074, VC_1074
+Other Designations: CPBP family intramembrane metalloprotease
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1143002..1143832, complement)
+This record was discontinued.
+ID: 2614344
+
+43. VC_RS05840
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS05840, VC1193, VC_1193
+Other Designations: hypothetical protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1266398..1266580, complement)
+This record was discontinued.
+ID: 2614626
+
+44. VC_RS05880
+DUF3581 domain-containing protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS05880, VC1201, VC_1201
+Other Designations: DUF3581 domain-containing protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1275417..1276142, complement)
+This record was discontinued.
+ID: 2614634
+
+45. VC_RS06165
+peptidase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS06165, VC1264, VC_1264
+Other Designations: peptidase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1337854..1339116)
+This record was discontinued.
+ID: 2614718
+
+46. VC_RS06170
+c-type cytochrome [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS06170, VC1265, VC_1265
+Other Designations: c-type cytochrome
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1339323..1340708)
+This record was discontinued.
+ID: 2614719
+
+47. VC_RS06205
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS06205, VC1272, VC_1272
+Other Designations: hypothetical protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1346864..1347262)
+This record was discontinued.
+ID: 2614726
+
+48. VC_RS06335
+L-serine ammonia-lyase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS06335, VC1300, VC_1300
+Other Designations: L-serine ammonia-lyase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1380028..1381389, complement)
+This record was discontinued.
+ID: 2614754
+
+49. VC_RS06340
+serine transporter [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS06340, VC1301, VC_1301
+Other Designations: serine transporter
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1381482..1382735, complement)
+This record was discontinued.
+ID: 2614755
+
+50. VC_RS07015
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS07015, VC1449, VC_1449
+Other Designations: hypothetical protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1549289..1549636)
+This record was discontinued.
+ID: 2614081
+
+51. VC_RS07530
+RidA family protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS07530, VC1556, VC_1556
+Other Designations: RidA family protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1667625..1667987, complement)
+This record was discontinued.
+ID: 2613935
+
+52. VC_RS07535
+LacI family DNA-binding transcriptional regulator [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS07535, VC1557, VC_1557
+Other Designations: LacI family DNA-binding transcriptional regulator
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1668122..1669129, complement)
+This record was discontinued.
+ID: 2613936
+
+53. VC_RS07540
+6-phospho-beta-glucosidase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS07540, VC1558, VC_1558
+Other Designations: 6-phospho-beta-glucosidase
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1669192..1670628, complement)
+This record was discontinued.
+ID: 2613937
+
+54. VC_RS08270
+insulinase family protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS08270, VC1709, VC_1709
+Other Designations: insulinase family protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1839907..1842675)
+This record was discontinued.
+ID: 2613714
+
+55. VC_RS09740
+ketoacyl-ACP synthase III [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS09740, VC2023, VC_2023
+Other Designations: ketoacyl-ACP synthase III
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2176335..2177285, complement)
+This record was discontinued.
+ID: 2613402
+
+56. VC_RS10315
+flagellin [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10315, VC2143, VC_2143
+Other Designations: flagellin
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2297661..2298794, complement)
+This record was discontinued.
+ID: 2613279
+
+57. VC_RS10495
+tRNA-Met [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10495, VC_t066, VCt066
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2330906..2330982)
+This record was discontinued.
+ID: 2613322
+
+58. VC_RS10500
+tRNA-Leu [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10500, VC_t067, VCt067
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2331011..2331096)
+This record was discontinued.
+ID: 2613323
+
+59. VC_RS10505
+tRNA-Leu [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10505, VC_t068, VCt068
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2331121..2331205)
+This record was discontinued.
+ID: 2613324
+
+60. VC_RS10510
+tRNA-Gln [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10510, VC_t069, VCt069
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2331233..2331307)
+This record was discontinued.
+ID: 2613325
+
+
+61. VC_RS10515
+tRNA-Met [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10515, VC_t070, VCt070
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2331385..2331461)
+This record was discontinued.
+ID: 2613326
+
+62. VC_RS10525
+tRNA-Gln [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10525, VC_t072, VCt072
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2331588..2331662)
+This record was discontinued.
+ID: 2613328
+
+63. VC_RS10690
+TonB-dependent siderophore receptor [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS10690, VC2211, VC_2211
+Other Designations: TonB-dependent siderophore receptor
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2362024..2364087, complement)
+This record was discontinued.
+ID: 2613250
+
+64. VC_RS11135
+membrane protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS11135, VC2305, VC_2305
+Other Designations: membrane protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2457836..2458636)
+This record was discontinued.
+ID: 2613101
+
+65. VC_RS11320
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS11320, VC_2351
+Other Designations: hypothetical protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2507958..2508140)
+This record was discontinued.
+ID: 44141777
+
+66. VC_RS12035
+tRNA-Ala [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS12035, VC_t084, VCt084
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2679660..2679735, complement)
+This record was discontinued.
+ID: 2615155
+
+67. VC_RS12040
+tRNA-Ile [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS12040, VC_t085, VCt085
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2679744..2679820, complement)
+This record was discontinued.
+ID: 2615156
+
+68. VC_RS12995
+anaerobic C4-dicarboxylate transporter [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS12995, VC2699, VC_2699
+Other Designations: anaerobic C4-dicarboxylate transporter
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2866537..2867844)
+This record was discontinued.
+ID: 2615527
+
+69. VC_RS13270
+tRNA-Ala [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13270, VC_t088, VCt088
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2931319..2931394, complement)
+This record was discontinued.
+ID: 2614918
+
+70. VC_RS13305
+tRNA-Val [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13305, VC_t092, VCt092
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2937121..2937196, complement)
+This record was discontinued.
+ID: 2614925
+
+71. VC_RS13645
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13645, VCA0052, VC_A0052
+Other Designations: hypothetical protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (59786..61255, complement)
+This record was discontinued.
+ID: 2612167
+
+72. VC_RS13685
+S9 family peptidase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13685, VCA0063, VC_A0063
+Other Designations: S9 family peptidase
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (68875..70872)
+This record was discontinued.
+ID: 2612107
+
+73. VC_RS13690
+TonB-dependent hemoglobin/transferrin/lactoferrin family receptor [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13690, VCA0064, VC_A0064
+Other Designations: TonB-dependent hemoglobin/transferrin/lactoferrin family receptor
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (70872..73013)
+This record was discontinued.
+ID: 2612115
+
+74. VC_RS13695
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13695, VCA0065, VC_A0065
+Other Designations: hypothetical protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (73023..75329)
+This record was discontinued.
+ID: 2612111
+
+75. VC_RS13700
+DUF1566 domain-containing protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13700, VCA0066, VC_A0066
+Other Designations: DUF1566 domain-containing protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (75326..76768)
+This record was discontinued.
+ID: 2612103
+
+76. VC_RS13705
+DUF1566 domain-containing protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS13705, VCA0067, VC_A0067
+Other Designations: DUF1566 domain-containing protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (76765..77325)
+This record was discontinued.
+ID: 2612090
+
+77. VC_RS14070
+peptide deformylase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS14070, VCA0150, VC_A0150
+Other Designations: peptide deformylase
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (167987..168493)
+This record was discontinued.
+ID: 2612555
+
+78. VC_RS14205
+NupC/NupG family nucleoside CNT transporter [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS14205, VCA0179, VC_A0179
+Other Designations: NupC/NupG family nucleoside CNT transporter
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (196603..197811)
+This record was discontinued.
+ID: 2611862
+
+79. VC_RS14420
+siderophore ABC transporter substrate-binding protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS14420, VCA0227, VC_A0227
+Other Designations: siderophore ABC transporter substrate-binding protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (248856..249767)
+This record was discontinued.
+ID: 2612388
+
+80. VC_RS14425
+ABC transporter permease [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS14425, VCA0228, VC_A0228
+Other Designations: ABC transporter permease
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (249820..250758)
+This record was discontinued.
+ID: 2612389
+
+
+81. VC_RS14430
+iron chelate uptake ABC transporter family permease subunit [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS14430, VCA0229, VC_A0229
+Other Designations: iron chelate uptake ABC transporter family permease subunit
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (250748..251698)
+This record was discontinued.
+ID: 2612771
+
+82. VC_RS15260
+ [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS15260
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (368979..369159)
+This record was discontinued.
+ID: 44141816
+
+83. VC_RS15335
+DUF645 family protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS15335, VCA0407, VC_A0407
+Other Designations: DUF645 family protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (378901..379083)
+This record was discontinued.
+ID: 2612140
+
+84. VC_RS15360
+DUF645 family protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS15360, VCA0412, VC_A0412
+Other Designations: DUF645 family protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (381045..381224)
+This record was discontinued.
+ID: 2612118
+
+85. VC_RS16165
+TonB-dependent hemoglobin/transferrin/lactoferrin family receptor [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS16165, VCA0576, VC_A0576
+Other Designations: TonB-dependent hemoglobin/transferrin/lactoferrin family receptor
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (514959..517040)
+This record was discontinued.
+ID: 2612698
+
+86. VC_RS16535
+methyl-accepting chemotaxis protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS16535, VCA0658, VC_A0658
+Other Designations: methyl-accepting chemotaxis protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (594586..596148, complement)
+This record was discontinued.
+ID: 2612769
+
+87. VC_RS16955
+lipase [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS16955, VCA0754, VC_A0754
+Other Designations: lipase
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (698742..699530)
+This record was discontinued.
+ID: 2611874
+
+88. VC_RS16965
+tRNA-Leu [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS16965, VCAt3, VC_At3
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (699661..699747, complement)
+This record was discontinued.
+ID: 2611860
+
+89. VC_RS17045
+amino acid permease [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17045, VCA0772, VC_A0772
+Other Designations: amino acid permease
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (713856..715058)
+This record was discontinued.
+ID: 2612325
+
+90. VC_RS17430
+outer membrane protein transport protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17430, VCA0862, VC_A0862
+Other Designations: outer membrane protein transport protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (811876..813114)
+This record was discontinued.
+ID: 2612849
+
+91. VC_RS17435
+lysophospholipase VolA [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17435, VCA0863, VC_A0863
+Other Designations: lysophospholipase VolA
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (813130..815520)
+This record was discontinued.
+ID: 2612850
+
+92. VC_RS17490
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17490, VCA0874, VC_A0874
+Other Designations: hypothetical protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (827514..827717)
+This record was discontinued.
+ID: 2612585
+
+93. VC_RS17670
+MotA/TolQ/ExbB proton channel family protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17670, VCA0911, VC_A0911
+Other Designations: MotA/TolQ/ExbB proton channel family protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (866440..867126)
+This record was discontinued.
+ID: 2612220
+
+94. VC_RS17675
+biopolymer transporter ExbD [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17675, VCA0912, VC_A0912
+Other Designations: biopolymer transporter ExbD
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (867123..867539)
+This record was discontinued.
+ID: 2612211
+
+95. VC_RS17685
+iron ABC transporter permease [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17685, VCA0914, VC_A0914
+Other Designations: iron ABC transporter permease
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (868395..869426)
+This record was discontinued.
+ID: 2612931
+
+96. VC_RS17765
+cold-shock protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17765, VCA0933, VC_A0933
+Other Designations: cold-shock protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (886068..886280)
+This record was discontinued.
+ID: 2612854
+
+97. VC_RS17950
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS17950, VCA0976, VC_A0976
+Other Designations: hypothetical protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (924362..924856)
+This record was discontinued.
+ID: 2612863
+
+98. VC_RS18125
+YjiH family protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS18125, VCA1013, VC_A1013
+Other Designations: YjiH family protein
+Chromosome: II
+Annotation: Chromosome II NC_002506.1 (962576..963307, complement)
+This record was discontinued.
+ID: 2612484
+
+99. VC_RS18620
+hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS18620, VC_2753
+Other Designations: hypothetical protein
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (2939167..2939307, complement)
+This record was discontinued.
+ID: 44155141
+
+100. vesC
+GlyGly-anchored extracellular serine protease VesC [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS07980, VC1649, VC_1649
+Other Designations: GlyGly-anchored extracellular serine protease VesC
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1774844..1776490, complement)
+This record was discontinued.
+ID: 2613780
+
+
+101. vibB
+vibriobactin biosynthesis bifunctional isochorismatase/aryl carrier protein VibB [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03865, VC0771, VC_0771
+Other Designations: vibriobactin biosynthesis bifunctional isochorismatase/aryl carrier protein VibB
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (826197..827078)
+This record was discontinued.
+ID: 2615314
+
+102. vibH
+norspermidine-2,3-dihydroxybenzoate synthase VibH [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC_RS03885, VC0775, VC_0775
+Other Designations: norspermidine-2,3-dihydroxybenzoate synthase VibH
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (830976..832292, complement)
+This record was discontinued.
+ID: 2615318
+
