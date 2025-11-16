@@ -49,8 +49,7 @@ def copy_file_content_to_excel(source_path, destination_path):
 
     # Write to Excel
     df.index = range(1, len(df)+1)
-    df.to_excel(destination_path, index=True)
-    df.index.name = 'Serial_Number'
+    df.to_excel(destination_path, index=True, index_label='Sl_No')
     print("Excel file write completed.....")
 
 
