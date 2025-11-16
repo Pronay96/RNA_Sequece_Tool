@@ -8,7 +8,7 @@ Absolute path:
 python readfile.py C:\Users\PRONAY\OneDrive\Desktop\Python\File_Generation\Input_Files\gene_result.txt C:\Users\PRONAY\OneDrive\Desktop\Python\File_Generation\Output_Files\Final_Result.txt
 
 Referencial Path text:
-python readfile.py Input_Files\gene_result.txt Output_Files\Final_Result.txt
+python readfile_toexcel.py Input_Files\gene_result.txt Output_Files\Final_Result.xlsx
 
 Referencial Path excel:
 python readfile_toexcel.py gene_result.txt final_result.xlsx
