@@ -1,12 +1,12 @@
-from sys import argv
-
+"""
+Extracts the data from the gene result text file into a dataframe
+"""
 import pandas as pd
 import re
-import os
 
 
 # Creating a function to extract and manipulate data from source file
-def copy_file_content_to_excel(source_path, destination_path):
+def format_gene_result(source_path):
     # Opening the source text file
     with open(source_path, 'r', encoding='utf-8') as src:
         """
@@ -45,17 +45,15 @@ def copy_file_content_to_excel(source_path, destination_path):
                 records.append((gene_name, final_aliases[0], final_aliases[1], final_aliases[2]))
 
     # Create DataFrame
-    df = pd.DataFrame(records, columns=['Gene Name', 'Alias1', 'Alias2', 'Alias3'],)
+    gene_primary_result = pd.DataFrame(records, columns=['Gene_Name', 'Alias1', 'Alias2', 'Alias3'])
+    gene_primary_result.index.name = 'Sl.No'
+
+    return gene_primary_result
 
     # Write to Excel
-    df.index = range(1, len(df)+1)
-    df.to_excel(destination_path, index=True, index_label='Sl_No')
-    print("Excel file write completed.....")
+    # df.index = range(1, len(df)+1)
+    # df.to_excel(r'Output_Files\Gene_Primary_Result.xlsx', index=True, index_label='Sl_No')
+    # print("Excel file write completed.....")
 
-
-if __name__ == "__main__":
-    if len(argv) != 3:
-        print("Usage: python script_name.py <source_file> <destination_file>")
-    source_path = os.path.abspath(argv[1])
-    destination_path = os.path.abspath(argv[2])
-    copy_file_content_to_excel(source_path, destination_path)
+# gene_results = format_gene_result('Input_Files/gene_result.txt')
+# print(gene_results.to_string())
