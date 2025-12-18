@@ -7,7 +7,7 @@ import format_amino_reference as ar
 
 def compare(source1, source2):
     gene_dataframe = gr.format_gene_result(source1)
-    amino_dataframe = ar.amino_acid_dataframe(source2)
+    amino_dataframe = ar.create_amino_acid_dataframe(source2)
 
     combined = gene_dataframe.merge(
         amino_dataframe,

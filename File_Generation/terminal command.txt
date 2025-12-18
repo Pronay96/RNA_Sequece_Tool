@@ -1,6 +1,6 @@
 Reach Directory:
 ------------------------------------
-cd C:\Users\PRONAY\OneDrive\Desktop\Python\File_Generation
+cd C:\Users\prono\PycharmProjects\RNA_Sequece_Tool\File_Generation
 
 Run the command:
 -------------------------------------
@@ -8,6 +8,6 @@ Absolute path:
 python RNA_sequence_Tool.py C:\Users\PRONAY\OneDrive\Desktop\Python\File_Generation\Input_Files\gene_result.txt C:\Users\PRONAY\OneDrive\Desktop\Python\File_Generation\Output_Files\Final_Result.txt
 
 Referencial Path text:
-python RNA_sequence_Tool.py Input_Files\gene_result.txt Input_Files\Amino_acid_biosynthesis_with_bold_headings.xlsx Output_Files\Final_Result.xlsx
+python RNA_sequence_Tool.py Input_Files\gene_result.txt Input_Files\List_of_Vibrio_genes.xlsx Output_Files\Final_Result.xlsx
 
 
